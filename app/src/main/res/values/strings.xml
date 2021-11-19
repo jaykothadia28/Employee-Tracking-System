@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Employee Tracking System</string>
+    <string name="who_are_you">Who are you ?</string>
+    <string name="admin">Admin</string>
+    <string name="or">OR</string>
+    <string name="employee">Employee</string>
+    <string name="client">Client</string>
+    <string name="enter_userName">Username</string>
+    <string name="loginBtn">Login</string>
+    <string name="enter_password">Password</string>
+    <string name="hello_admin">Hello Admin</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_username">Employee Username</string>
+    <string name="employee_password">Employee Password</string>
+    <string name="add">Add</string>
+    <string name="employee_contact_number">Employee Contact Number</string>
+    <string name="add_client">Add Client</string>
+    <string name="client_name">Client Name</string>
+    <string name="client_password">Client Password</string>
+    <string name="client_address">Client Address</string>
+    <string name="client_username">Client Username</string>
+    <string name="client_contact_number">Client Contact Number</string>
+    <string name="select_an_employee_first">Select an employee first</string>
+    <string name="select_a_client">Select a Client</string>
+    <string name="assign_task">Assign Task</string>
+    <string name="task_to_do">Task to do</string>
+    <string name="select_date">Select Date Of Completion</string>
+    <string name="assign">Assign</string>
+    <string name="incomplete_employees">List of Employees who\'s task is incomplete</string>
+    <string name="client_employeeActivity">Client:</string>
+    <string name="task_to_do_emp_ac">Task To Do:</string>
+    <string name="client_address_emp_ac">Client Address:</string>
+    <string name="client_contact_emp_ac">Client Contact:</string>
+    <string name="perform_date_emp_ac">Perform Date: (YYYY-MM-DD)</string>
+
+    <string-array name="options_list">
+        <item>(1) Add Employee</item>
+        <item>(2) Add Client</item>
+        <item>(3) Assign task to employee</item>
+        <item>(4) Track Employee</item>
+    </string-array>
+
+</resources>
